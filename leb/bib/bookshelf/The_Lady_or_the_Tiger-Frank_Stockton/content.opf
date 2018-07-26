@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:title>The Lady or the Tiger?</dc:title>
+    <dc:contributor opf:role="bkp">calibre (2.67.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1d7f09f2-15ed-4d90-b331-37c851889cfa</dc:identifier>
+    <dc:identifier opf:scheme="calibre">1d7f09f2-15ed-4d90-b331-37c851889cfa</dc:identifier>
+    <dc:subject>fairytale</dc:subject>
+    <dc:publisher>http://english-e-books.net/</dc:publisher>
+    <dc:description>&lt;p&gt;Once there was a strong and clever king in one country. He was unhappy because the citizens of his country were wrongdoers. The king thought for a long a time how he could change his folk for the better. One day good idea crossed his mind. He built a big and nice stadium. It contained five thousand people. They thought it had been created for having a good time. They were wrong. There were two blue doors in the stadium. Behind one door there was a tiger. Behind the other one there was a beautiful lady. Since that time someone, who did something wrong, would have to go the stadium. There he would make a choice and open one door. He would either be eaten or get married to the lady. People were scared. The wrongdoers had to be very careful. Can people change? &lt;/p&gt;</dc:description>
+    <dc:creator opf:file-as="Stockton, Frank" opf:role="aut">Frank Stockton</dc:creator>
+    <dc:language>en</dc:language>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="calibre:title_sort" content="Lady or the Tiger?, The"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
